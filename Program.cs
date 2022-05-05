@@ -7,5 +7,3 @@ Console.Write("Soyadınız: ");
 string soyad = Console.ReadLine();
 Console.WriteLine("Merhaba "+ad+" "+soyad);
 Console.ReadKey();
-
-
