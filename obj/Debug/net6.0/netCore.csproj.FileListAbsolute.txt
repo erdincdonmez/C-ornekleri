@@ -1,0 +1,15 @@
+C:\Users\Donmez\Desktop\netCore\bin\Debug\net6.0\netCore.exe
+C:\Users\Donmez\Desktop\netCore\bin\Debug\net6.0\netCore.deps.json
+C:\Users\Donmez\Desktop\netCore\bin\Debug\net6.0\netCore.runtimeconfig.json
+C:\Users\Donmez\Desktop\netCore\bin\Debug\net6.0\netCore.dll
+C:\Users\Donmez\Desktop\netCore\bin\Debug\net6.0\ref\netCore.dll
+C:\Users\Donmez\Desktop\netCore\bin\Debug\net6.0\netCore.pdb
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.csproj.AssemblyReference.cache
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.AssemblyInfoInputs.cache
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.AssemblyInfo.cs
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.csproj.CoreCompileInputs.cache
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.dll
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\ref\netCore.dll
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.pdb
+C:\Users\Donmez\Desktop\netCore\obj\Debug\net6.0\netCore.genruntimeconfig.cache
