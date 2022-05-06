@@ -1,5 +1,5 @@
 // See https://aka.ms/new-console-template for more information
-
+// Deneme
 var a = 10;
 int b = 2;
 a /= 2;
