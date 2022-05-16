@@ -1,20 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System;
 
-int a = 10;
-int b = 2;
-a /= 2;
-bool c = true;
+namespace netCore{
+    class Program{
+        static void Main(string[] args){
 
-Console.WriteLine(a);
-Console.WriteLine(b);
-Console.WriteLine(c);
 
-Console.ReadLine();
-
-/*
-Atama ve İşlemli Atama Operatörleri =, +=, -=, *=, /=
-Mantıksal Operatörler               ||, &&, !
-İlişkisel Operatörler               ==,!=, <, >, >=,<=
-Aritmetik                           +, -, *, /, %, ++, --
-*/
+            string simdikiYil="2022"; dogdugunYil="1985";
+            int yas = Convert.ToInt32(simdikiYil)-Convert.ToInt32(dogdugunYil);
+            Console.WriteLine(yas);
+        }
+    }
+}
 
