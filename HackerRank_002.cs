@@ -1,3 +1,4 @@
+/*
 //https://www.hackerrank.com/challenges/30-operators/problem
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
@@ -25,8 +26,10 @@ class Result
      *  3. INTEGER tax_percent
      */
 
+/*
     public static void solve(double meal_cost, int tip_percent, int tax_percent)
     {
+*/
         /*
         double tip = (meal_cost/100)*tip_percent;
         Convert.ToInt32(tip);
@@ -42,7 +45,7 @@ class Result
         //double mealCost = Double.Parse(Console.ReadLine());
             //tip_percent = Int32.Parse(Console.ReadLine());
             //tax_percent = Int32.Parse(Console.ReadLine());
-            
+ /*           
             double tip = tip_percent * meal_cost / 100;
             double tax = tip_percent * (tax_percent / 100);
             
@@ -55,11 +58,13 @@ class Result
     }
 
 }
-
-class Solution
+*/
+/*
+//class Solution12
 {
     public static void Main(string[] args)
-    {
+    {*/
+/*
         double meal_cost = Convert.ToDouble(Console.ReadLine().Trim());
 
         int tip_percent = Convert.ToInt32(Console.ReadLine().Trim());
@@ -68,5 +73,10 @@ class Solution
 
         //Result.solve(meal_cost, tip_percent, tax_percent);
         Result.solve(12, 20, 8);
-    }
+*/
+  /*  }
+  */
+/*
 }
+
+*/

@@ -1,3 +1,4 @@
+/*
 //https://www.hackerrank.com/challenges/solve-me-first/problem
 using System;
 using System.Collections.Generic;
@@ -17,3 +18,4 @@ class Solution {
         Console.WriteLine(sum);
     }
 }      
+*/
